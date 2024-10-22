@@ -48,6 +48,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Udacity’s Artificial Intelligence for Robotics by Georgia Tech - https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373
 - IBM's Data Science and Cognitive Computing courses - https://cognitiveclass.ai/
 - Elements of AI - https://www.elementsofai.com/
+- Great Learning's AI Courses - https://www.mygreatlearning.com/ai/free-courses
 - Building AI - https://buildingai.elementsofai.com/
 - Intellipaat's Artificial Intelligence - https://intellipaat.com/academy/course/artificial-intelligence-free-course/
 - EdX/Harvard University's CS50: Introduction to Artificial Intelligence with Python - https://www.edx.org/course/cs50s-introduction-to-artificial-intelligence-with-python
@@ -183,6 +184,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Intro to Machine Learning Course at Kaggle - https://www.kaggle.com/learn/intro-to-machine-learning
 - Intermediate Machine Learning Course at Kaggle - https://www.kaggle.com/learn/intermediate-machine-learning
 - Machine Learning with Python - https://cognitiveclass.ai/courses/machine-learning-with-python
+- Free Machine Learning Courses by Great Learning - https://www.mygreatlearning.com/machine-learning/free-courses
 
 ### 📈 FREE DATA SCIENCE COURSES:
 - IBM Data Science Professional Certificate - https://www.coursera.org/professional-certificates/ibm-data-science
@@ -190,6 +192,7 @@ Even if your profession is not directly related to tech, still it's said that AI
 - Introduction to Data Science in Python - https://www.coursera.org/learn/python-data-analysis
 - Introduction to Data Science Revised - https://alison.com/course/introduction-to-data-science-revised
 - A Crash Course in Data Science - https://www.coursera.org/learn/data-science-course
+- Free Data Science Courses by Great Learning - https://www.mygreatlearning.com/data-science/free-courses
 
 ### 🧠 FREE DEEP LEARNING COURSES:
 - Google’s Deep Learning Course- https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
